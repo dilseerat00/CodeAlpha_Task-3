@@ -21,19 +21,6 @@ This repository contains two projects:
 - **`requests`** for fetching IP-based geolocation data.
 - Optional integration with external APIs like Google Maps.
 
-### How to Run
-1. Install the required dependencies:
-   ```bash
-   pip install geopy requests
-   ```
-2. Run the script:
-   ```bash
-   geolocation_tracker.py
-   ```
-3. Follow the prompts to view your location data.
-
----
-
 ## Memory Puzzle Game
 
 ### Features
@@ -45,15 +32,5 @@ This repository contains two projects:
 - **Python**
 - **`tkinter`** for graphical user interface.
 
-### How to Run
-1. Install Python if not already installed.
-2. Run the script:
-   ```bash
-   memory_puzzle_game.py
-   ```
-3. Enjoy the game!
-
----
-
 ## Contact
-For questions or suggestions, please contact me at [Dilseerat](mailto:dilseeratjassal@gmail.com).
+For questions or suggestions, please contact me at [Email](mailto:dilseeratjassal@gmail.com).
